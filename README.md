@@ -8,4 +8,4 @@ I wanted to try out some UI ideas, create something simple, intuitive and effici
 While functional the program is definitely not optimized, I have a lot to learn!
 
 Thanks for checking this out,
-Carl
+Carl.

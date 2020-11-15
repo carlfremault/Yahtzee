@@ -1,12 +1,14 @@
-﻿using System;
+﻿/**
+ * Yahtzee dice game
+ * author : Carl Fremault
+ * date : 15/11/2020
+ */
+using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
+
 
 namespace Yahtzee1
 {
